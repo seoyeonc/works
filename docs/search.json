@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "asdf.html",
+    "href": "asdf.html",
+    "title": "",
+    "section": "",
+    "text": "최서연\nref: https://quarto.org/docs/authoring/tables.html\n- 사용예시1\n\nDemonstration of pipe table syntax\n\n\nDefault\nLeft\nRight\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1\n\n\n\n- 사용예시2\n\n\n\nfruit\nprice\n\n\n\n\napple\n2.05\n\n\npear\n1.37\n\n\norange\n3.09\n\n\n\n- 사용예시3\n\nFruit prices\n\n\n\n\n\n\nfruit\nprice\n\n\n\n\napple\n2.05\n\n\npear\n1.37\n\n\norange\n3.09\n\n\n\n- 사용예시4\n\n\nTable 1: Main Caption\n\n\n\n\n(a) First Table\n\n\nCol1\nCol2\nCol3\n\n\n\n\nA\nB\nC\n\n\nE\nF\nG\n\n\nA\nG\nG\n\n\n\n\n\n\n(b) Second Table\n\n\nCol1\nCol2\nCol3\n\n\n\n\nA\nB\nC\n\n\nE\nF\nG\n\n\nA\nG\nG\n\n\n\n\n\n\nSee Table 1 for details, especially Table 1 (b).\n- 사용예시5\n\nSample grid table.\n\n\n\n\n\n\n\nFruit\nPrice\nAdvantages\n\n\n\n\nBananas\n$1.34\n\nbuilt-in wrapper\nbright color\n\n\n\nOranges\n$2.10\n\ncures scurvy\ntasty\n\n\n\n\n- 사용예시6\n\n\n\n\n\n\n  \n    \n      \n      A\n      B\n      C\n    \n  \n  \n    \n      0\n      1\n      2\n      4\n    \n    \n      1\n      2\n      3\n      5\n    \n    \n      2\n      3\n      4\n      6"
+  }
+]
